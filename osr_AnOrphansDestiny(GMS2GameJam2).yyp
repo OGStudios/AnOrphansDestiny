@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "37878c9f-e25c-49a8-93bb-4b5a2d7ace43",
+            "Value": {
+                "id": "2b798738-043c-4d0c-bde7-b4fa8ca45ee2",
+                "resourcePath": "rooms\\OGSLogo\\OGSLogo.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3a725e16-225f-4cea-b6ba-e362c08ea64a",
             "Value": {
                 "id": "72dd1229-0ea8-46f4-b037-2ed299147c28",
@@ -180,6 +188,14 @@
                 "id": "7b091849-9b16-40be-8fb7-82680b7c9938",
                 "resourcePath": "scripts\\statePause\\statePause.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5b31cda5-a147-44d5-b8d3-a4468a2ce382",
+            "Value": {
+                "id": "d5937967-59ed-48f1-92ab-6ad384c5feac",
+                "resourcePath": "objects\\objOGSLogo\\objOGSLogo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,10 +303,18 @@
             }
         },
         {
+            "Key": "a33953d6-5f9a-4646-b372-9ab6ba495bc1",
+            "Value": {
+                "id": "085d36f5-fe95-4960-974d-5d3c4ec717f2",
+                "resourcePath": "views\\a33953d6-5f9a-4646-b372-9ab6ba495bc1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a4ad5a50-9955-432a-bb0a-b7f52fdf0225",
             "Value": {
                 "id": "61d11365-dfca-43e8-a06b-4cc87622525c",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\roomTemp\\roomTemp.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -316,6 +340,14 @@
                 "id": "e32451fd-dc6d-4bfa-bce7-924fc1301573",
                 "resourcePath": "views\\ac000ba9-7e23-4bb3-8242-f6089d160e81.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b53f0290-0097-4d33-bbe9-1eb3585bba1e",
+            "Value": {
+                "id": "0b867fbd-0498-4aa3-97a5-c83f304df68a",
+                "resourcePath": "sprites\\OGStudios\\OGStudios.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
